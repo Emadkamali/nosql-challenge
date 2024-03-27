@@ -42,6 +42,6 @@ Top 5 Establishments with RatingValue 5: Determination of the top 5 establishmen
 
 Local Authorities with Hygiene Score 0: Enumeration of establishments in each Local Authority area with a hygiene score of 0, sorted from highest to lowest, with the top ten local authority areas displayed.
 
-Conclusion:
+## Conclusion:
 
 This project exemplifies proficiency in working with NoSQL databases, conducting data analysis, and executing MongoDB queries to extract valuable insights from real-world data. It equips Eat Safe, Love with the requisite information to make informed decisions regarding future articles and restaurant recommendations, thus enhancing the exploration of food hygiene ratings. Enjoy delving into the world of food hygiene ratings!
